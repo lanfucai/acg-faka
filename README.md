@@ -77,5 +77,5 @@ location / {
 - 安装完成后，后台地址是：`https://你的域名/admin`
 
 ## 更多支持
-- 交流QQ群：970103572
-- [Telegram](http://t.me/mcyofficial)
+- 交流QQ群：271206663
+- [Telegram](http://t.me/hao1234botpay)
