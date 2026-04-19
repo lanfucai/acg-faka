@@ -74,8 +74,9 @@ location / {
 </rules>
 ```
 - 配置完成后，访问你的首页，即可开始安装
-- 安装完成后，后台地址是：`https://你的域名/admin`
+- 安装完成后，后台地址是：`https://你的域名/admin
 
 ## 更多支持
 - 交流QQ群：271206663
 - [Telegram](http://t.me/hao1234botpay)
+- 码支付[pay.mymzf.com](https://pay.mymzf.com/)
